@@ -40,7 +40,8 @@
 
 ### Page Counts
 
-### Stars
-[![Star History Chart](https://api.star-history.com/svg?repos=coollabsio/coolify&type=Date)](https://star-history.com/#coollabsio/coolify&Date)
-
 ![](https://komarev.com/ghpvc/?username=ChunixZ&label=Profile%20views&color=ff69b4&style=for-the-badge)
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=coollabsio/coolify&type=Date)](https://star-history.com/#coollabsio/coolify&Date)
